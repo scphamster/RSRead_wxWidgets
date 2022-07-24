@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SerialConfigs2">
+    <Position X="0.5" Y="1.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="SerialConfigs2::portSelection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Serial.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QBAAAQAIAAggAEBAAIACgwAIAAEAAAgBQEAAAEQQgCA=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="deque_s&lt;T, Allocator&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAAAAAAAAAEAAAACAAAAAQAAAAAQAAAAIAA=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serial" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABCAEAMAIQAAAAACAAAgiBAAIAAAIEQQAAAAAAA=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="myMap&lt;_Key, _Tp, _Compare, _Alloc&gt;" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAgAAQIAAAAAAAAAAAAAAAAAAAAAAQAAg=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SerialConfigs" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQAAAAkAAEAAAAAAAQAAAAAAAAgAQAAAAAAQgCA=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="superMap&lt;_Key, _Tp, _Compare, _Alloc&gt;" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABQCAAABEAAAAAgAAgAAAAAAAAAAAABAAAAAAABA=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
